@@ -1,0 +1,26 @@
+2020-03-05 20:56:52 DEBUG CustomListCreation:14 -The following are the Operation that can be done on the list
+
+2020-03-05 20:56:52 DEBUG CustomListCreation:15 -1) Adding Elements at last
+
+2020-03-05 20:56:52 DEBUG CustomListCreation:16 -2) Adding Elements at required Location
+
+2020-03-05 20:56:52 INFO  CustomListCreation:17 -3) Set Elements at required Location
+
+2020-03-05 20:56:52 INFO  CustomListCreation:18 -4) Removing element for required Locaiton
+2020-03-05 21:04:21 INFO  CustomListCreation:50 -Element inserted
+2020-03-05 21:04:29 INFO  CustomListCreation:118 -Displayed Successfully
+2020-03-05 21:04:40 INFO  CustomListCreation:61 -Element inserted at required location
+2020-03-05 21:04:44 INFO  CustomListCreation:118 -Displayed Successfully
+2020-03-05 21:05:08 INFO  CustomListCreation:71 -Element updated
+2020-03-05 21:05:12 INFO  CustomListCreation:118 -Displayed Successfully
+2020-03-05 21:05:24 INFO  CustomListCreation:80 -Removed the element
+2020-03-05 21:05:27 INFO  CustomListCreation:118 -Displayed Successfully
+2020-03-05 21:05:36 INFO  CustomListCreation:111 -Retrived Successfully
+2020-03-05 21:05:44 INFO  CustomListCreation:61 -Element inserted at required location
+2020-03-05 21:05:46 INFO  CustomListCreation:111 -Retrived Successfully
+2020-03-05 21:06:00 INFO  CustomListCreation:80 -Removed the element
+2020-03-05 21:06:04 INFO  CustomListCreation:111 -Retrived Successfully
+2020-03-05 21:06:07 INFO  CustomListCreation:118 -Displayed Successfully
+2020-03-05 21:06:22 INFO  CustomListCreation:105 -Retrived Successfully
+2020-03-05 21:06:29 INFO  CustomListCreation:50 -Element inserted
+2020-03-05 21:06:34 INFO  CustomListCreation:111 -Retrived Successfully
